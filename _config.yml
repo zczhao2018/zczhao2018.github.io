@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: zczhao2018@outlook.com
 description: "Every failure is leading towards success."
 keyword: "ZC, ZC Blog, 橙子的博客, zhaozhicheng, 赵志成"
-url: "http://zczhao2018hub.io"          # your host, for absolute URL
+url: "http://zczhao2018.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zczhao2018/zczhao2018.github.io.git" # you code repository
 
@@ -99,11 +99,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "CSDN",
+        href: "https://blog.csdn.net/zhaozhichenghpu"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "GitHub",
+        href: "https://github.com/zczhao2018"
     },{
         title: "Apple",
         href: "https://apple.com"
