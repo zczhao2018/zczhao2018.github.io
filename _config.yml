@@ -56,15 +56,15 @@ kramdown:
 
 
 # 评论系统
-# Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+Disqus（https://disqus.com/）
+disqus_username: qiubaiying
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: 8c2ff0fc905aaf3c4c53                            #生成的clientID
   clientSecret: d860ceebfd0ad14036139740f379d3664437a565    #生成的clientSecret
-  repo: zczhao2018.github.io    #仓库名称
+  repo: http://zczhao2018.github.io/    #仓库名称
   owner: zczhao    #github用户名
   admin: zczhao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
