@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-ZC-gentle.jpg      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     zc
-zhihu_username:     zc
+#weibo_username:     zc
+#zhihu_username:     zc
 github_username:    zczhao2018
 facebook_username:  zv
-jianshu_username:   zc
-twitter_username:   zc
+#jianshu_username:   zc
+twitter_username:   Twitter Moments
 
 
 
