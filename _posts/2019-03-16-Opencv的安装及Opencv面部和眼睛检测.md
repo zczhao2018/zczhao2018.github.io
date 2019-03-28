@@ -42,38 +42,38 @@ sudo apt-get install build-essential cmake pkg-config
 ```
 Time: 50 sec
 
- ## 3.现在安装必要的图像I / O包
+## 3.现在安装必要的图像I / O包
 ```
 sudo apt-get install libjpeg-dev libtiff5-dev libjasper-dev libpng12-dev
 ```
 Time: 37 sec
 
- ## 4.视频I / O包
+## 4.视频I / O包
 ```
 sudo apt-get install libavcodec-dev libavformat-dev libswscale-dev libv4l-dev
 sudo apt-get install libxvidcore-dev libx264-dev
 ```
 Time: 36 sec
 
- ## 5.安装GTK开发
+## 5.安装GTK开发
 ```
 sudo apt-get install libgtk2.0-dev
 ```
 Time: 2m 57s
 
- ## 6.优化包
+## 6.优化包
 ```
 sudo apt-get install libatlas-base-dev gfortran
 ```
 Time: 1 min
 
- ## 7.如果不存在的话，最好安装python 2.7。 
+## 7.如果不存在的话，最好安装python 2.7。 
 ```
 sudo apt-get install python2.7-dev
 ```
 Time: 55 sec
 
- ## 8.现在下载opencv源并解压缩
+## 8.现在下载opencv源并解压缩
  https://github.com/opencv
  opencv3.3之前的代码和之后的代码会有一些区别，需要注意, 安装的过程中把 https://github.com/opencv/opencv_contrib 也安装上比较好
 ## 9.编译opencv
@@ -107,8 +107,8 @@ opencv3.3代码有变化，需要注意
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005203600100?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW96aGljaGVuZ2hwdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 复制haarcascade_frontalface_alt.xml和haarcascade_eye_tree_eyeglasses.xml文件。它们位于opencv / data / haarcascades中
 ![在这里插入图片描述](https://img-blog.csdn.net/20181005203832875?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3poYW96aGljaGVuZ2hwdQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
-参考：
-https://www.instructables.com/id/Face-and-Eye-Detection-With-Raspberry-Pi-Zero-and-/
-https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html
-https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html
+### 参考
+(https://www.instructables.com/id/Face-and-Eye-Detection-With-Raspberry-Pi-Zero-and-/)
+-(https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html)
+-[OpenCV](https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html)
 https://github.com/opencv
